@@ -84,7 +84,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or collaborations, open an issue or contact [Chinmay6824](https://github.com/Chinmay6824).
+For questions or collaborations, open an issue or contact [suraj-yalagi](https://github.com/suraj-yalagi).
 
 ---
 
